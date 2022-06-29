@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac941a16-91d6-45ef-92ae-10b878a9830f": {
+      "ProjectGuid": "ac941a16-91d6-45ef-92ae-10b878a9830f",
+      "DisplayName": "LaRottaO.CSharp.Utils.HtmlTableFromStrings",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

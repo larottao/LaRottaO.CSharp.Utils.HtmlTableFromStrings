@@ -1,0 +1,6 @@
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\bin\Debug\LaRottaO.CSharp.Utils.Html.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\bin\Debug\LaRottaO.CSharp.Utils.Html.pdb
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\obj\Debug\LaRottaO.CSharp.Utils.Html.csproj.AssemblyReference.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\obj\Debug\LaRottaO.CSharp.Utils.Html.csproj.CoreCompileInputs.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\obj\Debug\LaRottaO.CSharp.Utils.Html.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.Html\LaRottaO.CSharp.Utils.Html\obj\Debug\LaRottaO.CSharp.Utils.Html.pdb

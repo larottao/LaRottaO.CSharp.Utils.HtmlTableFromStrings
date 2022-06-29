@@ -1,0 +1,6 @@
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\bin\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\bin\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.pdb
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\obj\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.csproj.AssemblyReference.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\obj\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.csproj.CoreCompileInputs.cache
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\obj\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.dll
+C:\Repositorios\LaRottaO.CSharp.Utils.HtmlTableFromStrings\LaRottaO.CSharp.Utils.HtmlTableFromStrings\obj\Debug\LaRottaO.CSharp.Utils.HtmlTableFromStrings.pdb
